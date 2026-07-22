@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0207-course-schedule/) | Medium |
 | [0733-flood-fill](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0994-rotting-oranges](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0994-rotting-oranges/) | Medium |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0207-course-schedule/) | Medium |
 | [0733-flood-fill](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Union-Find
@@ -121,5 +123,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0207-course-schedule/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0785-is-graph-bipartite/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
