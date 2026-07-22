@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0210-course-schedule-ii/) | Medium |
 | [0733-flood-fill](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0994-rotting-oranges](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0994-rotting-oranges/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0210-course-schedule-ii/) | Medium |
 | [0733-flood-fill](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,9 +130,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0210-course-schedule-ii/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0210-course-schedule-ii/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0802-find-eventual-safe-states/) | Medium |
 <!---LeetCode Topics End-->
