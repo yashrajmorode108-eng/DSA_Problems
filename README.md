@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0210-course-schedule-ii/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 <!---LeetCode Topics End-->
