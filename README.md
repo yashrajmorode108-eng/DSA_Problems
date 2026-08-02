@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0733-flood-fill/) | Easy |
 | [0735-asteroid-collision](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0735-asteroid-collision/) | Medium |
 | [0846-hand-of-straights](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0846-hand-of-straights/) | Medium |
+| [0877-stone-game](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0877-stone-game/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0994-rotting-oranges](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0877-stone-game](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0877-stone-game/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 ## Stack
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0877-stone-game/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -197,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0011-container-with-most-water/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
