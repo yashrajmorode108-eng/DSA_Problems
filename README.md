@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1406-stone-game-iii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1470-shuffle-the-array](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1470-shuffle-the-array/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1929-concatenation-of-array](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1929-concatenation-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1980-find-unique-binary-string/) | Medium |
