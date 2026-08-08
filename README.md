@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0011-container-with-most-water/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0200-number-of-islands](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0402-remove-k-digits](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0402-remove-k-digits/) | Medium |
 | [0735-asteroid-collision](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0735-asteroid-collision/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0486-predict-the-winner](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0877-stone-game/) | Medium |
