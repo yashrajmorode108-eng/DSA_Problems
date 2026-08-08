@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0011-container-with-most-water/) | Medium |
 | [0200-number-of-islands](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0645-set-mismatch/) | Easy |
 | [0846-hand-of-straights](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0846-hand-of-straights/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
