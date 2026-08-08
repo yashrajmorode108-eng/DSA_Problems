@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0994-rotting-oranges](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1406-stone-game-iii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1470-shuffle-the-array/) | Easy |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0645-set-mismatch/) | Easy |
 | [0846-hand-of-straights](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0846-hand-of-straights/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0645-set-mismatch/) | Easy |
 | [0846-hand-of-straights](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0846-hand-of-straights/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1980-find-unique-binary-string/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/3731-find-missing-elements/) | Easy |
@@ -267,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/3348-smallest-divisible-digit-product-ii/) | Hard |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 <!---LeetCode Topics End-->
