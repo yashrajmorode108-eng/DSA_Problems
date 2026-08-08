@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1406-stone-game-iii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1406-stone-game-iii/) | Hard |
+| [1441-build-an-array-with-stack-operations](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1441-build-an-array-with-stack-operations/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1470-shuffle-the-array/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0402-remove-k-digits/) | Medium |
 | [0735-asteroid-collision](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0735-asteroid-collision/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1441-build-an-array-with-stack-operations](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1441-build-an-array-with-stack-operations/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0735-asteroid-collision/) | Medium |
+| [1441-build-an-array-with-stack-operations](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1441-build-an-array-with-stack-operations/) | Medium |
 | [1929-concatenation-of-array](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1929-concatenation-of-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
