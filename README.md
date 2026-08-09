@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0994-rotting-oranges](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1140-stone-game-ii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1140-stone-game-ii/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1406-stone-game-iii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1406-stone-game-iii/) | Hard |
 | [1441-build-an-array-with-stack-operations](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1441-build-an-array-with-stack-operations/) | Medium |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0877-stone-game/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1140-stone-game-ii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1140-stone-game-ii/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1406-stone-game-iii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1406-stone-game-iii/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1406-stone-game-iii/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1406-stone-game-iii/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -266,10 +270,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1406-stone-game-iii/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1406-stone-game-iii/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -284,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1140-stone-game-ii/) | Medium |
 <!---LeetCode Topics End-->
