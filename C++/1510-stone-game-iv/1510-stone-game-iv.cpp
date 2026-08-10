@@ -8,6 +8,7 @@ public:
             int square = j*j;
             if(!dp[i - square]){
                 dp[i] = true;
+                break;
             }
         }
       }
