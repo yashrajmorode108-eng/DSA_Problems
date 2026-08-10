@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0232-implement-queue-using-stacks/) | Easy |
 | [0402-remove-k-digits](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0402-remove-k-digits/) | Medium |
 | [0636-exclusive-time-of-functions](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0636-exclusive-time-of-functions/) | Medium |
 | [0735-asteroid-collision](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0735-asteroid-collision/) | Medium |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0232-implement-queue-using-stacks/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0232-implement-queue-using-stacks/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/2073-time-needed-to-buy-tickets/) | Easy |
 <!---LeetCode Topics End-->
