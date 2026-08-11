@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1980-find-unique-binary-string/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/2073-time-needed-to-buy-tickets/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/2104-sum-of-subarray-ranges/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/3731-find-missing-elements/) | Easy |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0846-hand-of-straights/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/3731-find-missing-elements/) | Easy |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1980-find-unique-binary-string/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/3731-find-missing-elements/) | Easy |
 ## Breadth-First Search
