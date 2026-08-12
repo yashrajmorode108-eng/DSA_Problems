@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0402-remove-k-digits/) | Medium |
+| [0459-repeated-substring-pattern](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0459-repeated-substring-pattern/) | Easy |
 | [0482-license-key-formatting](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0482-license-key-formatting/) | Easy |
 | [0831-masking-personal-information](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0831-masking-personal-information/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1980-find-unique-binary-string/) | Medium |
@@ -348,4 +349,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0459-repeated-substring-pattern/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0459-repeated-substring-pattern/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0459-repeated-substring-pattern/) | Easy |
 <!---LeetCode Topics End-->
