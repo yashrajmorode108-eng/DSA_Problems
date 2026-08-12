@@ -2,9 +2,10 @@ class Solution {
 public:
     int maxSubarrayLength(vector<int>& nums, int k) {
         map<int,int> freq;
-        int l = 0, r = 0;
+        int l = 0;
         int ans = 0;
-        for(int r = 0;r<nums.size(); r++){
+        int n = nums.size();
+        for(int r = 0;r<n; r++){
             freq[nums[r]]++;
             
             while(freq[nums[r]]>k){
