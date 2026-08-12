@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0206-reverse-linked-list](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0328-odd-even-linked-list/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0206-reverse-linked-list/) | Easy |
 | [0486-predict-the-winner](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0486-predict-the-winner/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
