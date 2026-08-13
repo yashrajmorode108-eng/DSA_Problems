@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0138-copy-list-with-random-pointer](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0138-copy-list-with-random-pointer/) | Medium |
 | [0206-reverse-linked-list](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0328-odd-even-linked-list/) | Medium |
 ## Merge Sort
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0001-two-sum/) | Easy |
 | [0041-first-missing-positive](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0041-first-missing-positive/) | Hard |
+| [0138-copy-list-with-random-pointer](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0138-copy-list-with-random-pointer/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0645-set-mismatch/) | Easy |
 | [0846-hand-of-straights](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0846-hand-of-straights/) | Medium |
