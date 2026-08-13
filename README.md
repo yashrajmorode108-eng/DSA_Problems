@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0011-container-with-most-water/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0033-search-in-rotated-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0041-first-missing-positive/) | Hard |
 | [0056-merge-intervals](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0056-merge-intervals/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0084-largest-rectangle-in-histogram/) | Hard |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0033-search-in-rotated-sorted-array/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0633-sum-of-square-numbers/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0704-binary-search](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0704-binary-search/) | Easy |
