@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0633-sum-of-square-numbers](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0633-sum-of-square-numbers/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0704-binary-search](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0486-predict-the-winner](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0633-sum-of-square-numbers/) | Medium |
 | [0877-stone-game](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1406-stone-game-iii/) | Hard |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0011-container-with-most-water/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0633-sum-of-square-numbers/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
