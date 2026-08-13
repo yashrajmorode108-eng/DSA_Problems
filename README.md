@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1590-make-sum-divisible-by-p](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1590-make-sum-divisible-by-p/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1664-ways-to-make-a-fair-array](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1664-ways-to-make-a-fair-array/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1732-find-the-highest-altitude/) | Easy |
 | [1929-concatenation-of-array](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1929-concatenation-of-array/) | Easy |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1140-stone-game-ii/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1590-make-sum-divisible-by-p/) | Medium |
+| [1664-ways-to-make-a-fair-array](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1664-ways-to-make-a-fair-array/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1732-find-the-highest-altitude/) | Easy |
 ## Nim Game
 | Problem Name | Difficulty |
