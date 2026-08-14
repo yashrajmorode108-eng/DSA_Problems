@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0486-predict-the-winner/) | Medium |
+| [0493-reverse-pairs](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0493-reverse-pairs/) | Hard |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0636-exclusive-time-of-functions](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0636-exclusive-time-of-functions/) | Medium |
 | [0645-set-mismatch](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0645-set-mismatch/) | Easy |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0033-search-in-rotated-sorted-array/) | Medium |
+| [0493-reverse-pairs](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0493-reverse-pairs/) | Hard |
 | [0633-sum-of-square-numbers](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0633-sum-of-square-numbers/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0704-binary-search](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0704-binary-search/) | Easy |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0493-reverse-pairs](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0493-reverse-pairs/) | Hard |
 | [0912-sort-an-array](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0912-sort-an-array/) | Medium |
 | [0932-beautiful-array](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0932-beautiful-array/) | Medium |
 ## Sorting
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0493-reverse-pairs](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0493-reverse-pairs/) | Hard |
 | [0912-sort-an-array](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0912-sort-an-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -427,10 +431,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0493-reverse-pairs](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0493-reverse-pairs/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/2213-longest-substring-of-one-repeating-character/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0493-reverse-pairs](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0493-reverse-pairs/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/2213-longest-substring-of-one-repeating-character/) | Hard |
 ## Quicksort
 | Problem Name | Difficulty |
@@ -448,4 +454,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0912-sort-an-array/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0493-reverse-pairs/) | Hard |
+## Treap
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0493-reverse-pairs/) | Hard |
 <!---LeetCode Topics End-->
