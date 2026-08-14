@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0041-first-missing-positive/) | Hard |
 | [0056-merge-intervals](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0056-merge-intervals/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0084-largest-rectangle-in-histogram/) | Hard |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0200-number-of-islands](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0912-sort-an-array/) | Medium |
 | [0932-beautiful-array](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0932-beautiful-array/) | Medium |
@@ -209,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0001-two-sum/) | Easy |
 | [0041-first-missing-positive](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0041-first-missing-positive/) | Hard |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0138-copy-list-with-random-pointer/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0645-set-mismatch/) | Easy |
