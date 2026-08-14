@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0877-stone-game/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0912-sort-an-array](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0912-sort-an-array/) | Medium |
+| [0932-beautiful-array](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0932-beautiful-array/) | Medium |
 | [0994-rotting-oranges](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0994-rotting-oranges/) | Medium |
 | [1046-last-stone-weight](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1046-last-stone-weight/) | Easy |
 | [1091-shortest-path-in-binary-matrix](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0912-sort-an-array/) | Medium |
+| [0932-beautiful-array](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0932-beautiful-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0633-sum-of-square-numbers/) | Medium |
 | [0877-stone-game](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0877-stone-game/) | Medium |
+| [0932-beautiful-array](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0932-beautiful-array/) | Medium |
 | [1140-stone-game-ii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1510-stone-game-iv/) | Hard |
