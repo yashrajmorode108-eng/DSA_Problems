@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 | [1929-concatenation-of-array](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1929-concatenation-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1980-find-unique-binary-string/) | Medium |
+| [2029-stone-game-ix](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/2029-stone-game-ix/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/2073-time-needed-to-buy-tickets/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0011-container-with-most-water/) | Medium |
 | [0402-remove-k-digits](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0402-remove-k-digits/) | Medium |
 | [0846-hand-of-straights](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0846-hand-of-straights/) | Medium |
+| [2029-stone-game-ix](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/2029-stone-game-ix/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/2029-stone-game-ix/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/2029-stone-game-ix/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -356,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2029-stone-game-ix](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/2029-stone-game-ix/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
@@ -363,12 +368,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/2029-stone-game-ix/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -394,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/2029-stone-game-ix/) | Medium |
 ## Sprague–Grundy Theorem
 | Problem Name | Difficulty |
 | ------- | ------- |
