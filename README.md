@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1140-stone-game-ii/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1200-minimum-absolute-difference/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1406-stone-game-iii/) | Hard |
 | [1441-build-an-array-with-stack-operations](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1441-build-an-array-with-stack-operations/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0011-container-with-most-water/) | Medium |
 | [0402-remove-k-digits](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0402-remove-k-digits/) | Medium |
 | [0846-hand-of-straights](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0846-hand-of-straights/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1386-cinema-seat-allocation/) | Medium |
 | [2029-stone-game-ix](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/2029-stone-game-ix/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0846-hand-of-straights/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1386-cinema-seat-allocation/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1590-make-sum-divisible-by-p/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1980-find-unique-binary-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0645-set-mismatch](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0645-set-mismatch/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1386-cinema-seat-allocation/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
