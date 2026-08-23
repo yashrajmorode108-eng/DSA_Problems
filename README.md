@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0686-repeated-string-match/) | Medium |
 | [0796-rotate-string](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0796-rotate-string/) | Easy |
 | [0831-masking-personal-information](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/0831-masking-personal-information/) | Medium |
+| [1927-sum-game](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1927-sum-game/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1980-find-unique-binary-string/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0402-remove-k-digits/) | Medium |
 | [0846-hand-of-straights](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/0846-hand-of-straights/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1386-cinema-seat-allocation/) | Medium |
+| [1927-sum-game](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/2029-stone-game-ix/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1563-stone-game-v/) | Hard |
+| [1927-sum-game](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/2029-stone-game-ix/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1563-stone-game-v/) | Hard |
+| [1927-sum-game](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/2029-stone-game-ix/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
