@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1664-ways-to-make-a-fair-array](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1664-ways-to-make-a-fair-array/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1732-find-the-highest-altitude/) | Easy |
+| [1872-stone-game-viii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1872-stone-game-viii/) | Hard |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 | [1929-concatenation-of-array](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1929-concatenation-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1980-find-unique-binary-string/) | Medium |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1872-stone-game-viii/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/2029-stone-game-ix/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/2029-stone-game-ix/) | Medium |
 ## Recursion
@@ -389,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
@@ -396,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/2029-stone-game-ix/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -419,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1590-make-sum-divisible-by-p/) | Medium |
 | [1664-ways-to-make-a-fair-array](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1664-ways-to-make-a-fair-array/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1732-find-the-highest-altitude/) | Easy |
+| [1872-stone-game-viii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1872-stone-game-viii/) | Hard |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
