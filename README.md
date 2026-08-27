@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3731-find-missing-elements](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/3731-find-missing-elements/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Biconnected Component
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -390,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [2029-stone-game-ix](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/2029-stone-game-ix/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
