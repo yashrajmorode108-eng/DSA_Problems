@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1980-find-unique-binary-string/) | Medium |
 | [2029-stone-game-ix](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/2029-stone-game-ix/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/2073-time-needed-to-buy-tickets/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1386-cinema-seat-allocation/) | Medium |
 | [1927-sum-game](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/2029-stone-game-ix/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/yashrajmorode108-eng/DSA_Problems/tree/main/C++/3348-smallest-divisible-digit-product-ii/) | Hard |
